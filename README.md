@@ -1,6 +1,6 @@
 # Welcome to RxjPatil's GitHub!
 
-Hello there! I'm Raj Patil, also known as RxjPatil in the coding world. I'm a passionate individual who loves coding, playing FPS games, and exploring the world of music. Currently, I'm on a learning journey with JavaScript and Angular, expanding my skills and diving deeper into the world of web development.
+Hello there! I'm Raj Patil, also known as RxjPatil in the coding world. I'm a passionate individual who loves coding, playing FPS games, and exploring the world of music. Currently, I'm on a learning journey with JavaScript , expanding my skills and diving deeper into the world of web development.
 
 ## Technologies and Skills
 
