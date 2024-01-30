@@ -5,7 +5,7 @@ Hello there! I'm Raj Patil, also known as RxjPatil in the coding world. I'm a pa
 ## Technologies and Skills
 
 - **Languages:** HTML, CSS, Python
-- **Web Technologies:** JavaScript, Angular
+- **Web Technologies:** JavaScript
 - **Databases:** MySQL
 - **Version Control:** Git
 
