@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rxjpatil.freewebhostmost.com/](https://rxjpatil.freewebhostmost.com/)
 
-- 💬 Ask me about **Python, SQL, Web Development**
+- 💬 Ask me about **Python, Django,  SQL, Web Development**
 
 - 📫 How to reach me **rxjpatil@gmail.com**
 
