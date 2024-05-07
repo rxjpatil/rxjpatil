@@ -24,8 +24,6 @@
 <a href="https://instagram.com/rxjpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rxjpatil" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@7codz?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@7codz?sub_confirmation=1" height="30" width="40" /></a>
 <a href="https://discord.gg/mAdda4jGwg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/mAdda4jGwg" height="30" width="40" /></a>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="400">
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rxjpatil&show_icons=true&locale=en" alt="rxjpatil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rxjpatil&" alt="rxjpatil" /></p>
+<p><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="400"></p>
+
