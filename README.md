@@ -2,7 +2,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://www.instagram.com/wtfrxjj?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 <h1 align="center">Hi 👋, I'm Raj Patil</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif](https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif)">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rxjpatil&label=Profile%20views&color=0e75b6&style=flat" alt="rxjpatil" /> </p>
 
