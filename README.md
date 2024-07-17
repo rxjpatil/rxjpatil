@@ -1,5 +1,5 @@
 
-[![MasterHead](https://raw.githubusercontent.com/rxjpatil/rxjpatil/main/table.gif)](https://www.instagram.com/wtfrxjj?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+[![MasterHead](https://raw.githubusercontent.com/rxjpatil/rxjpatil/main/github7.gif)](https://www.instagram.com/wtfrxjj?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 <h1 align="center">Hi 👋, I'm Raj Patil</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from India</h3>
 <!-- < img align="right" alt="Chat-wit-Raj" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"> -->
