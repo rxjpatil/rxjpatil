@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://rxjpatil.freewebhostmost.com/](https://rxjpatil.freewebhostmost.com/)
+- 👨‍💻 All of my projects are available at [rxjpatil.vercel.app](https://rxjpatil.vercel.app/)
 
 - 💬 Ask me about **Python, Django,  SQL, Web Development**
 
