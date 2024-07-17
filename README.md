@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rxjpatil@gmail.com**
 
-- 📄 Know about my experiences [https://rxjpatil.freewebhostmost.com/resume.html](https://rxjpatil.freewebhostmost.com/resume.html)
+- 📄 Know about my experiences [Raj's Resume](https://rxjpatil.vercel.app/resume.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
