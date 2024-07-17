@@ -1,5 +1,5 @@
 
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*nuqj9109UDt1ettLjIctsg.gif)](https://www.instagram.com/wtfrxjj?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+[![MasterHead](https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif)](https://www.instagram.com/wtfrxjj?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 <h1 align="center">Hi 👋, I'm Raj Patil</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from India</h3>
 <!-- < img align="right" alt="Chat-wit-Raj" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"> -->
