@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python, Django,  SQL, Web Development**
 
-- 📫 How to reach me **pranavdongare2010@gmail.com**
+- 📫 How to reach me **rxjpatil@gmail.com**
 
 - 📄 Know about my experiences [Raj's Resume](https://rxjpatil.vercel.app/resume.html)
 
