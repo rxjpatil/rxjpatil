@@ -23,12 +23,13 @@
 
 <details>
   <summary>
+    [![MasterHead](https://raw.githubusercontent.com/rxjpatil/rxjpatil/main/github7.gif)](https://www.instagram.com/wtfrxjj?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+
     <h3>Github stats</h3>
   </summary>
   
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zougari47&theme=blueberry&count_private=true&hide_border=true&line_height=20)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zougari47&layout=compact&theme=blueberry&count_private=true&hide_border=true)
-[![MasterHead](https://raw.githubusercontent.com/rxjpatil/rxjpatil/main/github7.gif)](https://www.instagram.com/wtfrxjj?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 </details>
 
