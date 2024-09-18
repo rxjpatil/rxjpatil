@@ -29,7 +29,6 @@
   
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rxjpatil&theme=blueberry&count_private=true&hide_border=true&line_height=20)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rxjpatil&layout=compact&theme=blueberry&count_private=true&hide_border=true)
-![Top1 Languages1]([https://github-readme-stats.vercel.app/api/top-langs/?username=rxjpatil&layout=compact&theme=blueberry&count_private=true&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=rxjpatil&))
 
 </details>
 
