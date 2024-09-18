@@ -1,8 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rxjpatil&label=PROFILE%20VIEWS&color=ee8222&style=social" alt="rxjpatil" /> </p> <p align="left">
-  <a href="https://www.instagram.com/rxjpatil/" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20Me%20on%20Instagram-ee8222?style=social&logo=instagram" alt="Follow me on Instagram" />
-  </a>
-</p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rxjpatil&label=PROFILE%20VIEWS&color=ee8222&style=social" alt="rxjpatil" /> </p>
 
 <h1 align="center">YOO <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> WELCOME TO MY LABORATORY 🧪✨</h1>
 
@@ -12,6 +8,7 @@
 - 💻  Full stack developer
 - 📍  Based in Pune
 - ✉️  You can reach me by [rxjpatil@gmail.com](mailto:rxjpatil@gmail.com)
+- 📄 **Discover My Journey:** Peek into my professional adventures and experiences through [Raj's Resume](https://rxjpatil.vercel.app/resume.html). Let’s connect and make things happen!
 - 🔍 Interested in Qwik and Nest.js
 
 ### Skills & tools
