@@ -1,4 +1,8 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rxjpatil&label=PROFILE%20VIEWS&color=ee8222&style=social" alt="rxjpatil" /> </p> <p align="left"> <a href="https://twitter.com/rxjpatil" target="blank"><img src="https://img.shields.io/twitter/follow/rxjpatil?logo=twitter&style=for-the-badge" alt="rxjpatil" /></a> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rxjpatil&label=PROFILE%20VIEWS&color=ee8222&style=social" alt="rxjpatil" /> </p> <p align="left">
+  <a href="https://www.instagram.com/rxjpatil/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20Me%20on%20Instagram-ee8222?style=social&logo=instagram" alt="Follow me on Instagram" />
+  </a>
+</p>
 
 <h1 align="center">YOO <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> WELCOME TO MY LABORATORY 🧪✨</h1>
 
