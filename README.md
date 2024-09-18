@@ -1,6 +1,26 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rxjpatil&label=PROFILE%20VIEWS&color=ee8222&style=plastic" alt="rxjpatil" /> </p>
 <h1 align="center">YOO <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> WELCOME TO MY LABORATORY 🧪✨</h1>
+<div class="pulse">
+  <img src="https://komarev.com/ghpvc/?username=rxjpatil&label=PROFILE%20VIEWS&color=ee8222&style=for-the-badge" alt="Profile Views">
+</div>
 
+<style>
+.pulse img {
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+</style>
 ### Who am I?
 
 - 💻  Full stack developer
