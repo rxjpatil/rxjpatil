@@ -1,7 +1,5 @@
 <h1 align="center">YOO <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> WELCOME TO MY LABORATORY 🧪✨</h1>
 
-<img src="https://raw.githubusercontent.com/rxjpatil/rxjpatil/main/github7.gif" align="right" width="275" />
-
 ### Who am I?
 
 - 💻  Full stack developer
@@ -29,10 +27,11 @@
   </summary>
   
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zougari47&theme=blueberry&count_private=true&hide_border=true&line_height=20)
+[![MasterHead](https://raw.githubusercontent.com/rxjpatil/rxjpatil/main/github7.gif)](https://www.instagram.com/wtfrxjj?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zougari47&layout=compact&theme=blueberry&count_private=true&hide_border=true)
 
 </details>
-[![MasterHead](https://raw.githubusercontent.com/rxjpatil/rxjpatil/main/github7.gif)](https://www.instagram.com/wtfrxjj?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+
 <h1 align="center">Hi 👋, I'm Raj Patil</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from India</h3>
 <!-- < img align="right" alt="Chat-wit-Raj" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"> -->
