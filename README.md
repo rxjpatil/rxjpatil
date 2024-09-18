@@ -12,6 +12,7 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,astro,react,next,svelte,tailwind&titles=true)
 <br />
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,supabase,mongo,docker,vercel,netlify&titles=true)
+[![MasterHead](https://raw.githubusercontent.com/rxjpatil/rxjpatil/main/github7.gif)](https://www.instagram.com/wtfrxjj?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 ### Other links
 
@@ -22,7 +23,6 @@
 
 
 <details>
-      [![MasterHead](https://raw.githubusercontent.com/rxjpatil/rxjpatil/main/github7.gif)](https://www.instagram.com/wtfrxjj?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
   <summary>
 
