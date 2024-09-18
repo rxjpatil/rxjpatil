@@ -1,4 +1,5 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rxjpatil&label=PROFILE%20VIEWS&color=ee8222&style=social" alt="rxjpatil" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rxjpatil&label=PROFILE%20VIEWS&color=ee8222&style=social" alt="rxjpatil" /> </p> <p align="left"> <a href="https://twitter.com/rxjpatil" target="blank"><img src="https://img.shields.io/twitter/follow/rxjpatil?logo=twitter&style=for-the-badge" alt="rxjpatil" /></a> </p>
+
 <h1 align="center">YOO <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> WELCOME TO MY LABORATORY 🧪✨</h1>
 
 
