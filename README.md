@@ -6,9 +6,13 @@
 ### Who am I?
 
 - 💻 **Full Stack Developer** passionate about crafting exceptional digital experiences.
+- 
 - 📍 **Based in Pune**, connecting locally and globally.
+- 
 - ✉️  You can reach me by [rxjpatil@gmail.com](mailto:rxjpatil@gmail.com)
+- 
 - 🌐  Check out [rxjpatil.vercel.app](https://rxjpatil.vercel.app)
+- 
 - 🔍 Currently diving into **AWS** and **React**
 
 ### Skills & tools
