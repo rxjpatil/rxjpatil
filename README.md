@@ -9,7 +9,7 @@
 - 📍  Based in Pune
 - ✉️  You can reach me by [rxjpatil@gmail.com](mailto:rxjpatil@gmail.com)
 - 🌐  Check out [rxjpatil.vercel.app](https://rxjpatil.vercel.app)
-- 🔍 Currently diving into **AWS** and **React**; interested in **Qwik** and **Nest.js**
+- 🔍 Currently diving into **AWS** and **React**
 - 💬 Ask me about **Python, Django, SQL**, and **Web Development**
 
 ### Skills & tools
