@@ -8,7 +8,7 @@
 - 💻  Full stack developer
 - 📍  Based in Pune
 - ✉️  You can reach me by [rxjpatil@gmail.com](mailto:rxjpatil@gmail.com)
-- 📄 **Discover My Journey:** Peek into my professional adventures and experiences through [Raj's Resume](https://rxjpatil.vercel.app/resume.html). Let’s connect and make things happen!
+- 📄  Check out [rxjpatil.vercel.app](https://rxjpatil.vercel.app)
 - 🔍 Interested in Qwik and Nest.js
 
 ### Skills & tools
