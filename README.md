@@ -5,8 +5,8 @@
 ### Who am I?
 
 - 💻  Full stack developer
-- 📍  Based in Morocco
-- ✉️  You can reach me by [contact@ahmedz.dev](mailto:contact@ahmedz.dev)
+- 📍  Based in Pune
+- ✉️  You can reach me by [rxjpatil@gmail.com](mailto:rxjpatil@gmail.com)
 - 🔍 Interested in Qwik and Nest.js
 
 ### Skills & tools
