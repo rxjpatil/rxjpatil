@@ -29,6 +29,7 @@
   
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rxjpatil&theme=blueberry&count_private=true&hide_border=true&line_height=20)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rxjpatil&layout=compact&theme=blueberry&count_private=true&hide_border=true)
-
+![SnowCore Pro](https://achieve.snowflake.com/41025b23-00f1-4de3-a13b-732484283de8#acc.ZAflGi9y)
+  
 </details>
 
